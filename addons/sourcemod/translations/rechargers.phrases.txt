@@ -1,0 +1,172 @@
+"Phrases"
+{
+	"free space not found"
+	{
+		"ru"		"достингут лимит речарджеров данного типа для этой карты"
+		"en"		"free space in file not found (limit for map are reached)"
+	}
+	
+	"non rechargeable object"
+	{
+		"ru"		"данных объект не является речарджером"
+		"en"		"this is not recharger"
+	}
+	
+	"out of charge"
+	{
+		"ru"		"кончился заряд"
+		"en"		"out of charge"
+	}
+	
+	"restricted by team"
+	{
+		"ru"		"вашей команде нельзя использовать данный речарджер"
+		"en"		"restricted by team"
+	}
+	
+	"max health reached"
+	{
+		"ru"		"вы не нуждаетесь в лечении"
+		"en"		"you have max health"
+	}
+	
+	"max armor reached"
+	{
+		"ru"		"вы не нуждаетесь в лечении"
+		"en"		"you have max armor"
+	}
+	
+	"not enough money"
+	{
+		"#format"	"{1:d}"
+		"ru"		"недостаточно денег: одно восстановление стоит {1}$"
+		"en"		"not enough money: one restore costs {1}$"
+	}
+	
+	"main menu title"
+	{
+		"ru"		"[Rechargers]\n "
+		"en"		"[Rechargers]\n "
+	}
+	
+	"spawn healthbox"
+	{
+		"ru"		"Создать HealthBox"
+		"en"		"Spawn HealthBox"
+	}
+	
+	"spawn armorbox"
+	{
+		"ru"		"Создать ArmorBox"
+		"en"		"Spawn ArmorBox"
+	}
+	
+	"edit"
+	{
+		"ru"		"Редактировать"
+		"en"		"Edit"
+	}
+	
+	"delete"
+	{
+		"ru"		"Удалить"
+		"en"		"Delete"
+	}
+	
+	"edit healthbox"
+	{
+		"ru"		"Параметры HealthBox:\n "
+		"en"		"Edit HealthBox:\n "
+	}
+	
+	"edit armorbox"
+	{
+		"ru"		"Параметры ArmorBox:\n "
+		"en"		"Edit ArmorBox:\n "
+	}
+	
+	"max health"
+	{
+		"#format"	"{1:d}"
+		"ru"		"Макс. здоровье: {1}"
+		"en"		"Max health: {1}"
+	}
+	
+	"max armor"
+	{
+		"#format"	"{1:d}"
+		"ru"		"Макс. броня: {1}"
+		"en"		"Max armor: {1}"
+	}
+	
+	"recharge time"
+	{
+		"#format"	"{1:f}"
+		"ru"		"Вр. перезарядки: {1}"
+		"en"		"Rech. time: {1}"
+	}
+	
+	"start delay"
+	{
+		"#format"	"{1:f}"
+		"ru"		"Вр. активации: {1}"
+		"en"		"Start delay: {1}"
+	}
+	
+	"reserve"
+	{
+		"#format"	"{1:d}"
+		"ru"		"Запас: {1}"
+		"en"		"Reserve: {1}"
+	}
+	
+	"amount"
+	{
+		"#format"	"{1:d}"
+		"ru"		"Восстанавливает: {1}"
+		"en"		"Amount: {1}"
+	}
+	
+	"price"
+	{
+		"#format"	"{1:d}"
+		"ru"		"Цена: {1}"
+		"en"		"Price: {1}"
+	}
+	
+	"team"
+	{
+		"ru"		"Команда: "
+		"en"		"Team: "
+	}
+	
+	"team 0"
+	{
+		"ru"		"все"
+		"en"		"all"
+	}
+	
+	"team 2"
+	{
+		"ru"		"т"
+		"en"		"t"
+	}
+	
+	"team 3"
+	{
+		"ru"		"кт"
+		"en"		"ct"
+	}
+	
+	"wait for float"
+	{
+		"ru"		"введите в чат вещественное число"
+		"en"		"type in chat float value"
+	}
+	
+	"wait for int"
+	{
+		"ru"		"введите в чат целое число"
+		"en"		"type in chat integer value"
+	}
+}
